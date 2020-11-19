@@ -1,0 +1,4 @@
+C:\Users\acer\source\repos\ejercicioWeb2.0\ejercicioWeb2.0\obj\Debug\ejercicioWeb2.csprojAssemblyReference.cache
+C:\Users\acer\source\repos\ejercicioWeb2.0\ejercicioWeb2.0\obj\Debug\ejercicioWeb2.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\ejercicioWeb2.0\ejercicioWeb2.0\obj\Debug\ejercicioWeb2.0.dll
+C:\Users\acer\source\repos\ejercicioWeb2.0\ejercicioWeb2.0\obj\Debug\ejercicioWeb2.0.pdb
